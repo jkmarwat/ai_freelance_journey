@@ -1,2 +1,4 @@
 # ai_freelance_journey
-Catch me if you can...
+- Learning AI Automation#
+- Building projects daily
+- Documenting progress
