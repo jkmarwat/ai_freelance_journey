@@ -15,7 +15,7 @@ Prepare a working development environment for AI automation projects and refresh
 
 ### Development Environment
 
-* Python 3.x
+* Python 3.14.3
 * Git
 * Visual Studio Code
 
