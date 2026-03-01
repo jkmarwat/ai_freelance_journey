@@ -17,7 +17,7 @@ Prepare a working development environment for AI automation projects and refresh
 
 * Python 3.14.3
 * Git 2.53.0.windows.1
-* Visual Studio Code
+* Visual Studio Code 1.109.5 (user setup)
 
 ### Python Libraries
 
